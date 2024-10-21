@@ -11,6 +11,11 @@ ___
 
 ### Опыт работы
 
+- **[РосАтом ГСПИ](https://www.aogspi.ru/)**, июль 2024 - н.в.
+  - Должность: **Junior Software Developer**
+  
+  <br />
+
 - **[MARS](https://rus.mars.com/)**, ноябрь 2023 - май 2024
   - Должность: **Intern Software Developer**
   - Обязанности: 
