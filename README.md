@@ -2,7 +2,6 @@
 
 <img src="/src/Photo.jpg" width="200" height="280">
 
-Телефон: 8 (922) 944-94-31  
 E-mail: shubin.key@yandex.ru  
 Дата рождения: 25.09.1999  
 Город: Москва  
